@@ -6,7 +6,9 @@ Simple Sinatra based web application that countsdown the number of days until yo
 
 ### How To Run
 
-To install all the dependencies, run:
+First clone this repo.
+
+Then install all the dependencies, run:
 
 ```
 bundle install
